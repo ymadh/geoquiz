@@ -1,0 +1,152 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha01.aar/62595ba51e1671bb2b3bf05fa0c2e06a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha02.aar/c5acd3121f5e30769d61700b9687ee07/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/e8ef6ba870acbd0cdcfce00e99147922/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/53e2a7ee79ede17ef636bfaf3920ec50/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/ab7f3a6f26b56962278de022ab35d5e1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/2ec4b0e6f9dadcb0699c2a09b0234749/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/9969724b805d795fc285d9b418d0c50f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/bc68a08f6feede85e0d60fc17e769c4a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/fce241e961067f502d4f133c7f696573/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-alpha02] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha02.aar/c9e866024efa5124fcd830f933947d05/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/bf1ea89ed0901a983e3963835e3ba37f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/a8243ec2658d787b8e1bffd6b44ae664/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/4dbe05654c2f1a160b0c9db1ace35f27/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/de2d8dc94700e0831caba5b8aed00779/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/5f95dc60bb4cd51d0092db226c8c9b0e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-alpha01] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha01.aar/792872f6d6b80eddf08a602136d8cc71/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/7d4560a893068477fa9c190997a902b6/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/5380dfa73f24d1e2477465439221de11/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/14d9d709259adb565b4ff356dba95e6f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/df82f7107d303caa070802e4414a07f1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/d1c02af83d9401b04d41cce8799a7fe3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/31b87c20c22cde543b8436737a2d6b87/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/6a8afd52c3ee8a3259ee6ae82ae1ed00/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/adcacb1952b91751dad1ce4739b5cea5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/89e4f9713f734fc88b65ea906e3f0ccb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/2a8410395f2d9b1f8cb8c2ea758a4707/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/a28fa5c92db07567c71266a90324f664/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml:3:11-53
+		INJECTED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml
+		ADDED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml
+		ADDED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.core:core:1.1.0-alpha01] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha01.aar/792872f6d6b80eddf08a602136d8cc71/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-alpha01] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha01.aar/792872f6d6b80eddf08a602136d8cc71/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/7d4560a893068477fa9c190997a902b6/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/7d4560a893068477fa9c190997a902b6/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-alpha01] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha01.aar/792872f6d6b80eddf08a602136d8cc71/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml:11:13-44
+activity#com.bignerdranch.android.geoquiz.MainActivity
+ADDED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml
+INJECTED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha01.aar/62595ba51e1671bb2b3bf05fa0c2e06a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha01.aar/62595ba51e1671bb2b3bf05fa0c2e06a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha02.aar/c5acd3121f5e30769d61700b9687ee07/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha02.aar/c5acd3121f5e30769d61700b9687ee07/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/e8ef6ba870acbd0cdcfce00e99147922/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/e8ef6ba870acbd0cdcfce00e99147922/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/53e2a7ee79ede17ef636bfaf3920ec50/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/53e2a7ee79ede17ef636bfaf3920ec50/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/ab7f3a6f26b56962278de022ab35d5e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/ab7f3a6f26b56962278de022ab35d5e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/2ec4b0e6f9dadcb0699c2a09b0234749/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/2ec4b0e6f9dadcb0699c2a09b0234749/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/9969724b805d795fc285d9b418d0c50f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/9969724b805d795fc285d9b418d0c50f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/bc68a08f6feede85e0d60fc17e769c4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/bc68a08f6feede85e0d60fc17e769c4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/fce241e961067f502d4f133c7f696573/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/fce241e961067f502d4f133c7f696573/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha02] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha02.aar/c9e866024efa5124fcd830f933947d05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha02] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha02.aar/c9e866024efa5124fcd830f933947d05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/bf1ea89ed0901a983e3963835e3ba37f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/bf1ea89ed0901a983e3963835e3ba37f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/a8243ec2658d787b8e1bffd6b44ae664/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/a8243ec2658d787b8e1bffd6b44ae664/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/4dbe05654c2f1a160b0c9db1ace35f27/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/4dbe05654c2f1a160b0c9db1ace35f27/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/de2d8dc94700e0831caba5b8aed00779/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/de2d8dc94700e0831caba5b8aed00779/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/5f95dc60bb4cd51d0092db226c8c9b0e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/5f95dc60bb4cd51d0092db226c8c9b0e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha01] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha01.aar/792872f6d6b80eddf08a602136d8cc71/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha01] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha01.aar/792872f6d6b80eddf08a602136d8cc71/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/7d4560a893068477fa9c190997a902b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/7d4560a893068477fa9c190997a902b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/5380dfa73f24d1e2477465439221de11/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/5380dfa73f24d1e2477465439221de11/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/14d9d709259adb565b4ff356dba95e6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/14d9d709259adb565b4ff356dba95e6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/df82f7107d303caa070802e4414a07f1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/df82f7107d303caa070802e4414a07f1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/d1c02af83d9401b04d41cce8799a7fe3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/d1c02af83d9401b04d41cce8799a7fe3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/31b87c20c22cde543b8436737a2d6b87/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/31b87c20c22cde543b8436737a2d6b87/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/6a8afd52c3ee8a3259ee6ae82ae1ed00/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/6a8afd52c3ee8a3259ee6ae82ae1ed00/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/adcacb1952b91751dad1ce4739b5cea5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/adcacb1952b91751dad1ce4739b5cea5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/89e4f9713f734fc88b65ea906e3f0ccb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/89e4f9713f734fc88b65ea906e3f0ccb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/2a8410395f2d9b1f8cb8c2ea758a4707/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/2a8410395f2d9b1f8cb8c2ea758a4707/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/a28fa5c92db07567c71266a90324f664/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/adunphy/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/a28fa5c92db07567c71266a90324f664/AndroidManifest.xml:20:5-44
+INJECTED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml
+INJECTED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml
+		ADDED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml
+		ADDED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adunphy/Downloads/AndroidProgramming4e/02_MVC/GeoQuiz/app/src/main/AndroidManifest.xml
